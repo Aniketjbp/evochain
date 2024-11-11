@@ -11,9 +11,9 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/sap200/evochain/blockchain"
-	"github.com/sap200/evochain/constants"
-	"github.com/sap200/evochain/wallet"
+	"github.com/Aniketjbp/evochain/blockchain"
+	"github.com/Aniketjbp/evochain/constants"
+	"github.com/Aniketjbp/evochain/wallet"
 )
 
 type WalletServer struct {

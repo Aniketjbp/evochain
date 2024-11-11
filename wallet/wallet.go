@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/sap200/evochain/blockchain"
-	"github.com/sap200/evochain/constants"
+	"github.com/Aniketjbp/evochain/blockchain"
+	"github.com/Aniketjbp/evochain/constants"
 )
 
 type Wallet struct {
