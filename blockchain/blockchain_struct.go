@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/sap200/evochain/constants"
+	"github.com/Aniketjbp/evochain/constants"
 )
 
 type BlockchainStruct struct {

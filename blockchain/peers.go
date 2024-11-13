@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sap200/evochain/constants"
+	"github.com/Aniketjbp/evochain/constants"
 )
 
 func SyncBlockchain(address string) (*BlockchainStruct, error) {
